@@ -3,6 +3,8 @@ This repository contains the programming assignments from the online algorithm c
 Course website:
 1.	https://www.coursera.org/learn/algorithms-part1
 2.	https://www.coursera.org/learn/algorithms-part2
-Textbook booksite: https://algs4.cs.princeton.edu/home/
+
+Textbook booksite: 
+    https://algs4.cs.princeton.edu/home/
 
 
